@@ -18,7 +18,7 @@ font-family: 'Poppins', sans-serif;
     border: 2px solid blue;
     margin: 50px;
     margin-top: 10px;
-    
+    margin-bottom: 200px;
     box-shadow: 10px 20px 40px blue;
 
 }
@@ -33,12 +33,38 @@ font-family: 'Poppins', sans-serif;
     margin-top: 10px;
     margin-left: 200px;
     border: 2px solid blue;
+    margin-bottom: 200px;
 }
 .go{
     display: flex;
 }
 h2{
     font-size: 30px;
+}
+.biger{
+    display: flex;
+    margin: 100px;
+}
+.nox{
+    border-image: linear-gradient(pink,tomato,blue);
+    border-image-slice: 1;
+    border-image-width:2px ;
+    height: 150px;
+    box-shadow: 15px 10px 20px rgba(228, 33, 49, 0.411);
+    margin-top: 300px;
+    padding: 5px;
+    border-left: 5px solid red;
+    
+}
+.img {
+    margin-left: 100px;
+}
+.sobi{
+    margin-right: 100px;
+}
+#miss{
+    text-align: center;
+    color: saddlebrown;
 }
 
 
