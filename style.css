@@ -79,26 +79,56 @@ section{
     
 }
 .four{
-    box-shadow: 10px 10px 30px;
+    box-shadow: 10px 10px 30px rgba(255, 81, 0, 0.911);
     padding: 80px;
-    margin: 50px;
+    margin: 30px;
     margin-left: 50px;
     margin-right: 20px;
+    border-image: linear-gradient(orangered,yellow,blue);
+    border-image-slice: 1;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    
     
 }
 #six{
     margin:50px;
     padding: 80px;
     margin-left: 500px;
-    box-shadow: 10px 10px 30px rgb(255, 51, 0);
-    border-image: linear-gradient(orangered,blue);
+    box-shadow: 10px 10px 30px rgb(255, 81, 0);
+    border-image: linear-gradient(orangered,blue,rgb(255, 196, 0));
     border-image-slice: 1;
     border-left: 3px solid;
     border-right: 3px solid;
     border-top: 3px solid;
     border-bottom: 3px solid;
 }
-
-
-
+.color{
+    color: blue;
+}
+#blod{
+    text-decoration:none;
+    border: 1px solid rgb(38, 76, 156);
+    background-image: linear-gradient(rgb(0, 119, 255),rgb(255, 0, 179));
     
+}
+#noob{
+    text-align: center;
+}
+.start{
+    margin-bottom: 200px;
+}
+.loot{
+    margin: 100px;
+}
+.tiki{
+    margin: 47px;
+}
+.tik{
+    margin: 90px;
+}
+#kana{
+    margin-left: 150px;
+}
