@@ -4,3 +4,42 @@ font-family: 'Cormorant Garamond', serif;
 font-family: 'Open Sans', sans-serif;
 font-family: 'Poppins', sans-serif;
 }
+#heading{
+    text-align: center;
+    background-color: brown;
+    color: cornsilk;
+    height: 150px;
+    margin-bottom: 80px;
+}
+.left{
+    display: flex;
+    padding: 100px;
+    padding-left: 10px;
+    border: 2px solid blue;
+    margin: 50px;
+    margin-top: 10px;
+    
+    box-shadow: 10px 20px 40px blue;
+
+}
+#h20{
+    text-align:center;
+}
+.right{
+    display: flex;
+    margin-bottom: 30px;
+    padding: 100px;
+    box-shadow: 10px 20px 40px blue;
+    margin-top: 10px;
+    margin-left: 200px;
+    border: 2px solid blue;
+}
+.go{
+    display: flex;
+}
+h2{
+    font-size: 30px;
+}
+
+
+    
