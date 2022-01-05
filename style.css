@@ -122,6 +122,9 @@ section{
 }
 .loot{
     margin: 100px;
+    border: 4px solid coral;
+    margin-left: 400px;
+    height: 500px;
 }
 .tiki{
     margin: 47px;
@@ -131,4 +134,13 @@ section{
 }
 #kana{
     margin-left: 150px;
+}
+.dio{
+    display: flex;
+}
+.yo{
+    margin: 100px;
+}
+#rol{
+    text-align: center;
 }
