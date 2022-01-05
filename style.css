@@ -20,7 +20,7 @@ margin: 0;
     margin: 50px;
     margin-top: 10px;
     margin-bottom: 200px;
-    box-shadow: 10px 20px 40px blue;
+    box-shadow: 10px 20px 40px rgb(27, 153, 226);
 
 }
 #h20{
@@ -30,7 +30,7 @@ margin: 0;
     display: flex;
     margin-bottom: 30px;
     padding: 100px;
-    box-shadow: 20px 20px 40px blue;
+    box-shadow: 20px 20px 40px rgb(0, 162, 255);
     margin-top: 10px;
     margin-left: 200px;
     border: 2px solid blue;
@@ -72,12 +72,32 @@ section{
     background-image: url(image/best.jpg);
     background-repeat: no-repeat;
 }
+.five{
+    display: flex;
+    padding: 200px;
 
-
-
-
-
-
+    
+}
+.four{
+    box-shadow: 10px 10px 30px;
+    padding: 80px;
+    margin: 50px;
+    margin-left: 50px;
+    margin-right: 20px;
+    
+}
+#six{
+    margin:50px;
+    padding: 80px;
+    margin-left: 500px;
+    box-shadow: 10px 10px 30px rgb(255, 51, 0);
+    border-image: linear-gradient(orangered,blue);
+    border-image-slice: 1;
+    border-left: 3px solid;
+    border-right: 3px solid;
+    border-top: 3px solid;
+    border-bottom: 3px solid;
+}
 
 
 
